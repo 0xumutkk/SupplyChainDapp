@@ -1,0 +1,10 @@
+[default]
+src = 'src'
+out = 'out'
+libs = ['lib']
+test = 'test'
+script = 'script'
+cache_path = 'cache'
+
+[dependencies]
+forge-std = { git = "https://github.com/foundry-rs/forge-std" }
