@@ -8,6 +8,7 @@ function App() {
       <TestWeb3Service />
     </div>
   );
+  
 }
 
 export default App;
